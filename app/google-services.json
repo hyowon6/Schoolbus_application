@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "323732580023",
+    "firebase_url": "https://busdata-91bad-default-rtdb.firebaseio.com",
+    "project_id": "busdata-91bad",
+    "storage_bucket": "busdata-91bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323732580023:android:58151ae87bae08c339cf32",
+        "android_client_info": {
+          "package_name": "com.example.bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtMCiJ3WVAA_VYB5umsjfnwAQK7jy3HIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323732580023:android:416e7cccc355f17039cf32",
+        "android_client_info": {
+          "package_name": "com.example.schoolbusapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtMCiJ3WVAA_VYB5umsjfnwAQK7jy3HIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
